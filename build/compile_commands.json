@@ -1,0 +1,8 @@
+[
+{
+  "directory": "C:/Users/llakh/OneDrive/Desktop/Rotating3DCUbe'/Rotating3dCube/build",
+  "command": "D:\\mingw64\\bin\\c++.exe -I\"C:/Users/llakh/OneDrive/Desktop/Rotating3DCUbe'/Rotating3dCube/include\" -g -std=gnu++17 -o CMakeFiles\\Rotating3dCube.dir\\src\\RotatingCube.cpp.obj -c \"C:\\Users\\llakh\\OneDrive\\Desktop\\Rotating3DCUbe'\\Rotating3dCube\\src\\RotatingCube.cpp\"",
+  "file": "C:\\Users\\llakh\\OneDrive\\Desktop\\Rotating3DCUbe'\\Rotating3dCube\\src\\RotatingCube.cpp",
+  "output": "CMakeFiles\\Rotating3dCube.dir\\src\\RotatingCube.cpp.obj"
+}
+]
