@@ -1,3 +1,0 @@
-C:/Users/llakh/OneDrive/Desktop/Rotating3DCUbe'/Rotating3dCube/build/CMakeFiles/Rotating3dCube.dir
-C:/Users/llakh/OneDrive/Desktop/Rotating3DCUbe'/Rotating3dCube/build/CMakeFiles/edit_cache.dir
-C:/Users/llakh/OneDrive/Desktop/Rotating3DCUbe'/Rotating3dCube/build/CMakeFiles/rebuild_cache.dir
